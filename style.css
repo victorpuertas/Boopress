@@ -1,0 +1,16 @@
+/*
+Theme Name: Boopress 
+Theme URI: https://github.com/victorpuertas/Boopress/
+Description: A lightweight Wordpress theme based on Bootstrap from Twitter.
+Version: 1.0
+Author: Victor Puertas
+Author URI: http://lennyvpg.wordpress.com
+License: Mozilla Public License - MPL 2.0
+License URI: http://www.mozilla.org/MPL/2.0/index.txt
+Tags: light, twitter, bootstrap, clean, development, html5, custom-menu, flexible-width, theme-options, translation-ready
+Text Domain: boopress
+*/
+
+@import "css/bootstrap.css";
+@import "css/bootstrap-responsive.min.css";
+@import "css/boopress.css";

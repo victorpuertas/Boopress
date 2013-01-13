@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boopress Theme\n"
+"POT-Creation-Date: 2013-01-12 20:28+0100\n"
+"PO-Revision-Date: 2013-01-12 20:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: Victor Puertas <vpgugr@gmail.com>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Entradas de la categoría: %s"
+
+#: ../comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta entrada está protegída con password. Introduce el password para ver los "
+"comentarios."
+
+#: ../comments.php:39 ../comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: ../comments.php:40 ../comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes  &rarr;"
+
+#: ../comments.php:73
+msgid "Your name"
+msgstr "Nombre"
+
+#: ../comments.php:74
+msgid "Your email"
+msgstr "Email"
+
+#: ../comments.php:78
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Puedes usar las siguientes etiquetas y atributos <abbr title=\"HyperText "
+"Markup Language\">HTML</abbr>: %s"
+
+#: ../comments.php:81
+msgid "Type something…"
+msgstr "Escribe algo..."
+
+#: ../content-none.php:2
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Parece que no encontramos lo que estás buscando. Quizá una búsqueda te ayude."
+
+#: ../content-pagination.php:4
+msgid "&larr; Older posts"
+msgstr "&larr; Anteriores"
+
+#: ../content-pagination.php:7
+msgid "Newer posts &rarr;"
+msgstr "Siguientes &rarr;"
+
+#: ../content-post-first.php:14 ../content-post.php:15
+msgid "Published by"
+msgstr "Publicado por"
+
+#: ../content-post-first.php:14
+msgid "F jS, Y"
+msgstr ""
+
+#: ../content-post-first.php:15 ../content-post.php:16
+msgid "Edit"
+msgstr "Editar"
+
+#: ../content-post-first.php:20 ../content-post.php:21
+#, php-format
+msgid "Posted in %2$s"
+msgstr "Publicado en %2$s"
+
+#: ../content-post-first.php:29 ../content-post.php:30
+#, php-format
+msgid "Tagged %2$s"
+msgstr ""
+
+#: ../functions.php:72
+msgid "Top Navigation"
+msgstr ""
+
+#: ../functions.php:73
+msgid "Bottom Navigation"
+msgstr ""
+
+#: ../functions.php:111
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: ../functions.php:116
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de ser aprobado."
+
+#: ../functions.php:129
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: ../functions.php:129 ../functions.php:154
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../functions.php:154
+msgid "Pingback:"
+msgstr ""
+
+#: ../searchform.php:2 ../searchform.php:3
+msgid "Search"
+msgstr "Buscar"
+
+#: ../tag.php:12
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../theme-options.php:56
+msgid " Theme Options"
+msgstr "Opciones del tema"
+
+#: ../theme-options.php:59
+msgid "Options saved"
+msgstr "Opciones guardadas"
+
+#: ../lib/actions.php:17 ../lib/actions.php:27
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../lib/actions.php:19 ../lib/actions.php:29
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../lib/filters.php:36
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
