@@ -12,7 +12,7 @@
                 'fallback_cb' => false) );  ?>
                 
                 <p class="copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>.</p>
-                <p class="muted">Powered by <a href="http://wordpress.org">Wordpress</a> - Theme <a class="label label-info" href="https://github.com/victorpuertas/Boopress/">Boopress</a></p>
+                <p class="muted">Powered by <a href="http://wordpress.org">Wordpress</a> - Theme <a class="label label-info" href="http://victorpuertas.github.com/Boopress/">Boopress</a></p>
             </footer>
         
         </div> <!-- end #container -->
