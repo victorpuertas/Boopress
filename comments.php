@@ -70,8 +70,8 @@
 
 <?php 
     $fields =  array(
-        'author' => '<p class="comment-form-author">' . ( $req ? '<span class="required">*</span>' : '' ) . '<input id="author" name="author" type="text" placeholder="'.__('Your name', 'boopress').'" value="' . esc_attr( $commenter['comment_author'] ) . '" size="30"' . $aria_req . ' /></p>',
-        'email' => '<p class="comment-form-email">' . ( $req ? '<span class="required">*</span>' : '' ) . '<input id="email" name="email" type="email" placeholder="'.__('Your email', 'boopress').'" value="' . esc_attr(  $commenter['comment_author_email'] ) . '" size="30"' . $aria_req . ' /></p>',
+        'author' => '<p class="comment-form-author">' . ( $req ? '<span class="required">*</span>' : '' ) . '<input id="author" name="author" type="text" placeholder="'.__('Your name', 'boopress').'" value="' . esc_attr( $commenter['comment_author'] ) . '" size="30" /></p>',
+        'email' => '<p class="comment-form-email">' . ( $req ? '<span class="required">*</span>' : '' ) . '<input id="email" name="email" type="email" placeholder="'.__('Your email', 'boopress').'" value="' . esc_attr(  $commenter['comment_author_email'] ) . '" size="30" /></p>',
         'url' => '<p class="comment-form-url"><input id="url" name="url" class="span5" type="url" placeholder="http://" value="' . esc_attr( $commenter['comment_author_url'] ) . '" size="30" /></p>'
     );
     
